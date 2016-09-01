@@ -1,0 +1,8 @@
+---
+applications:
+- name: ompredixprod_app_restapi
+  memory: 500M
+  instance: 1
+  path: .
+services:
+  - ompredixprod_service_postgres

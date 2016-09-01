@@ -1,0 +1,4 @@
+{
+    "ADMIN_EMAIL": "enrico.e.timisela@ge.com",
+    "PHP_EXTENSIONS": ["mbstring", "pgsql", "mcrypt", "gd", "zip"]
+}
